@@ -1,4 +1,4 @@
-# 🎮 Guia de Estudo Técnico: Arquitetura e Mecânicas (Godot 4)
+# 🎮 Guia de Estudo Técnico: Arquitetura e Mecânicas (Godot 4.6)
 
 Este repositório foi desenvolvido como material de estudo de jogos utilizando a **Godot Engine 4.6**. O código do projeto foi completamente comentado para fins didáticos (Não é o melhor apenas o mais simples).
 
